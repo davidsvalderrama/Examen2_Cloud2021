@@ -1,0 +1,16 @@
+{
+  "name": "examen2",
+  "version": "1.0.0",
+  "description": "Examen 2 Cloud 2021 impartida por Alex Villa",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "David Sánchez",
+  "license": "ISC",
+  "dependencies": {
+    "aws-xray-sdk": "^3.3.1",
+    "dotenv": "^8.2.0",
+    "ibm-watson": "^6.0.4"
+  }
+}
